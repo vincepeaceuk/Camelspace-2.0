@@ -1,4 +1,4 @@
-# Camel Space 2 — Atjazz Record Company edition
+# Camel Space 2 — ARCo. Edition
 
 **Version 2.0.0 · macOS · VST3 effect**
 
