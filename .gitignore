@@ -1,0 +1,12 @@
+# User-supplied commercial engine/support files and local evidence
+/local/
+# Fetched dependency, generated builds and private packages
+/deps/
+/build*/
+/dist/
+.DS_Store
+__pycache__/
+*.py[cod]
+*.user
+.env
+.env.*
